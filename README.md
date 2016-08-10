@@ -21,3 +21,4 @@ git checkout would be like you changing your mind about the transaction before m
 hub create to new branches would be like adding a new checkings/savings account with the bank
 
 git rm is like a return you make, as if you decided you didn't want to buy an item after all
+changing branch
